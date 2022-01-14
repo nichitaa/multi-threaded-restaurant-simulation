@@ -1,0 +1,458 @@
+[
+  {
+    "restaurant_id": 1,
+    "name": "Restaurant 1",
+    "kitchen_port": 5001,
+    "dinning_port": 4001,
+    "menu_items": 10,
+    "cooks": [
+      {
+        "id": 1,
+        "rank": 3,
+        "proficiency": 2,
+        "name": "Jamie1 Olver1",
+        "catch-phrase": "🤡"
+      },
+      {
+        "id": 2,
+        "rank": 2,
+        "proficiency": 3,
+        "name": "Hesto1 Blume1",
+        "catch-phrase": "👾"
+      },
+      {
+        "id": 3,
+        "rank": 2,
+        "proficiency": 4,
+        "name": "Ferra1 Adria1",
+        "catch-phrase": "🤔"
+      },
+      {
+        "id": 4,
+        "rank": 1,
+        "proficiency": 3,
+        "name": "Ferra1 Adria1",
+        "catch-phrase": "🤔"
+      }
+    ],
+    "stoves": 2,
+    "ovens": 2,
+    "menu": [
+      {
+        "id": 1,
+        "name": "pizza",
+        "preparation-time": 20,
+        "complexity": 2,
+        "cooking-apparatus": "oven"
+      },
+      {
+        "id": 2,
+        "name": "salad",
+        "preparation-time": 10,
+        "complexity": 1,
+        "cooking-apparatus": null
+      },
+      {
+        "id": 3,
+        "name": "zeama",
+        "preparation-time": 7,
+        "complexity": 1,
+        "cooking-apparatus": "stove"
+      },
+      {
+        "id": 4,
+        "name": "Scallop Sashimi with Meyer Lemon Confit",
+        "preparation-time": 32,
+        "complexity": 3,
+        "cooking-apparatus": null
+      },
+      {
+        "id": 5,
+        "name": "Island Duck with Mulberry Mustard",
+        "preparation-time": 35,
+        "complexity": 3,
+        "cooking-apparatus": "oven"
+      },
+      {
+        "id": 6,
+        "name": "Waffles",
+        "preparation-time": 10,
+        "complexity": 1,
+        "cooking-apparatus": "stove"
+      },
+      {
+        "id": 7,
+        "name": "Aubergine",
+        "preparation-time": 20,
+        "complexity": 2,
+        "cooking-apparatus": null
+      },
+      {
+        "id": 8,
+        "name": "Lasagna",
+        "preparation-time": 30,
+        "complexity": 2,
+        "cooking-apparatus": "oven"
+      },
+      {
+        "id": 9,
+        "name": "Burger",
+        "preparation-time": 15,
+        "complexity": 1,
+        "cooking-apparatus": "oven"
+      },
+      {
+        "id": 10,
+        "name": "Gyros",
+        "preparation-time": 15,
+        "complexity": 1,
+        "cooking-apparatus": null
+      }
+    ],
+    "rating": 5,
+    "tables_no": 5,
+    "waiters_no": 3
+  },
+  {
+    "restaurant_id": 2,
+    "name": "Restaurant 2",
+    "kitchen_port": 5002,
+    "dinning_port": 4002,
+    "menu_items": 10,
+    "cooks": [
+      {
+        "id": 1,
+        "rank": 3,
+        "proficiency": 2,
+        "name": "Jamie1 Olver1",
+        "catch-phrase": "🤡"
+      },
+      {
+        "id": 2,
+        "rank": 2,
+        "proficiency": 3,
+        "name": "Hesto1 Blume1",
+        "catch-phrase": "👾"
+      },
+      {
+        "id": 3,
+        "rank": 2,
+        "proficiency": 4,
+        "name": "Ferra1 Adria1",
+        "catch-phrase": "🤔"
+      },
+      {
+        "id": 4,
+        "rank": 1,
+        "proficiency": 3,
+        "name": "Ferra1 Adria1",
+        "catch-phrase": "🤔"
+      }
+    ],
+    "stoves": 3,
+    "ovens": 2,
+    "menu": [
+      {
+        "id": 1,
+        "name": "pizza",
+        "preparation-time": 20,
+        "complexity": 2,
+        "cooking-apparatus": "oven"
+      },
+      {
+        "id": 2,
+        "name": "salad",
+        "preparation-time": 10,
+        "complexity": 1,
+        "cooking-apparatus": null
+      },
+      {
+        "id": 3,
+        "name": "zeama",
+        "preparation-time": 7,
+        "complexity": 1,
+        "cooking-apparatus": "stove"
+      },
+      {
+        "id": 4,
+        "name": "Scallop Sashimi with Meyer Lemon Confit",
+        "preparation-time": 32,
+        "complexity": 3,
+        "cooking-apparatus": null
+      },
+      {
+        "id": 5,
+        "name": "Island Duck with Mulberry Mustard",
+        "preparation-time": 35,
+        "complexity": 3,
+        "cooking-apparatus": "oven"
+      },
+      {
+        "id": 6,
+        "name": "Waffles",
+        "preparation-time": 10,
+        "complexity": 1,
+        "cooking-apparatus": "stove"
+      },
+      {
+        "id": 7,
+        "name": "Aubergine",
+        "preparation-time": 20,
+        "complexity": 2,
+        "cooking-apparatus": null
+      },
+      {
+        "id": 8,
+        "name": "Lasagna",
+        "preparation-time": 30,
+        "complexity": 2,
+        "cooking-apparatus": "oven"
+      },
+      {
+        "id": 9,
+        "name": "Burger",
+        "preparation-time": 15,
+        "complexity": 1,
+        "cooking-apparatus": "oven"
+      },
+      {
+        "id": 10,
+        "name": "Gyros",
+        "preparation-time": 15,
+        "complexity": 1,
+        "cooking-apparatus": null
+      }
+    ],
+    "rating": 5,
+    "tables_no": 5,
+    "waiters_no": 3
+  },
+  {
+    "restaurant_id": 3,
+    "name": "Restaurant 3",
+    "kitchen_port": 5003,
+    "dinning_port": 4003,
+    "menu_items": 10,
+    "cooks": [
+      {
+        "id": 1,
+        "rank": 3,
+        "proficiency": 2,
+        "name": "Jamie1 Olver1",
+        "catch-phrase": "🤡"
+      },
+      {
+        "id": 2,
+        "rank": 2,
+        "proficiency": 3,
+        "name": "Hesto1 Blume1",
+        "catch-phrase": "👾"
+      },
+      {
+        "id": 3,
+        "rank": 2,
+        "proficiency": 4,
+        "name": "Ferra1 Adria1",
+        "catch-phrase": "🤔"
+      },
+      {
+        "id": 4,
+        "rank": 1,
+        "proficiency": 3,
+        "name": "Ferra1 Adria1",
+        "catch-phrase": "🤔"
+      }
+    ],
+    "stoves": 3,
+    "ovens": 2,
+    "menu": [
+      {
+        "id": 1,
+        "name": "pizza",
+        "preparation-time": 20,
+        "complexity": 2,
+        "cooking-apparatus": "oven"
+      },
+      {
+        "id": 2,
+        "name": "salad",
+        "preparation-time": 10,
+        "complexity": 1,
+        "cooking-apparatus": null
+      },
+      {
+        "id": 3,
+        "name": "zeama",
+        "preparation-time": 7,
+        "complexity": 1,
+        "cooking-apparatus": "stove"
+      },
+      {
+        "id": 4,
+        "name": "Scallop Sashimi with Meyer Lemon Confit",
+        "preparation-time": 32,
+        "complexity": 3,
+        "cooking-apparatus": null
+      },
+      {
+        "id": 5,
+        "name": "Island Duck with Mulberry Mustard",
+        "preparation-time": 35,
+        "complexity": 3,
+        "cooking-apparatus": "oven"
+      },
+      {
+        "id": 6,
+        "name": "Waffles",
+        "preparation-time": 10,
+        "complexity": 1,
+        "cooking-apparatus": "stove"
+      },
+      {
+        "id": 7,
+        "name": "Aubergine",
+        "preparation-time": 20,
+        "complexity": 2,
+        "cooking-apparatus": null
+      },
+      {
+        "id": 8,
+        "name": "Lasagna",
+        "preparation-time": 30,
+        "complexity": 2,
+        "cooking-apparatus": "oven"
+      },
+      {
+        "id": 9,
+        "name": "Burger",
+        "preparation-time": 15,
+        "complexity": 1,
+        "cooking-apparatus": "oven"
+      },
+      {
+        "id": 10,
+        "name": "Gyros",
+        "preparation-time": 15,
+        "complexity": 1,
+        "cooking-apparatus": null
+      }
+    ],
+    "rating": 5,
+    "tables_no": 5,
+    "waiters_no": 3
+  },
+  {
+    "restaurant_id": 4,
+    "name": "Restaurant 4",
+    "kitchen_port": 5004,
+    "dinning_port": 4004,
+    "menu_items": 10,
+    "cooks": [
+      {
+        "id": 1,
+        "rank": 3,
+        "proficiency": 2,
+        "name": "Jamie1 Olver1",
+        "catch-phrase": "🤡"
+      },
+      {
+        "id": 2,
+        "rank": 2,
+        "proficiency": 3,
+        "name": "Hesto1 Blume1",
+        "catch-phrase": "👾"
+      },
+      {
+        "id": 3,
+        "rank": 2,
+        "proficiency": 4,
+        "name": "Ferra1 Adria1",
+        "catch-phrase": "🤔"
+      },
+      {
+        "id": 4,
+        "rank": 1,
+        "proficiency": 3,
+        "name": "Ferra1 Adria1",
+        "catch-phrase": "🤔"
+      }
+    ],
+    "stoves": 2,
+    "ovens": 3,
+    "menu": [
+      {
+        "id": 1,
+        "name": "pizza",
+        "preparation-time": 20,
+        "complexity": 2,
+        "cooking-apparatus": "oven"
+      },
+      {
+        "id": 2,
+        "name": "salad",
+        "preparation-time": 10,
+        "complexity": 1,
+        "cooking-apparatus": null
+      },
+      {
+        "id": 3,
+        "name": "zeama",
+        "preparation-time": 7,
+        "complexity": 1,
+        "cooking-apparatus": "stove"
+      },
+      {
+        "id": 4,
+        "name": "Scallop Sashimi with Meyer Lemon Confit",
+        "preparation-time": 32,
+        "complexity": 3,
+        "cooking-apparatus": null
+      },
+      {
+        "id": 5,
+        "name": "Island Duck with Mulberry Mustard",
+        "preparation-time": 35,
+        "complexity": 3,
+        "cooking-apparatus": "oven"
+      },
+      {
+        "id": 6,
+        "name": "Waffles",
+        "preparation-time": 10,
+        "complexity": 1,
+        "cooking-apparatus": "stove"
+      },
+      {
+        "id": 7,
+        "name": "Aubergine",
+        "preparation-time": 20,
+        "complexity": 2,
+        "cooking-apparatus": null
+      },
+      {
+        "id": 8,
+        "name": "Lasagna",
+        "preparation-time": 30,
+        "complexity": 2,
+        "cooking-apparatus": "oven"
+      },
+      {
+        "id": 9,
+        "name": "Burger",
+        "preparation-time": 15,
+        "complexity": 1,
+        "cooking-apparatus": "oven"
+      },
+      {
+        "id": 10,
+        "name": "Gyros",
+        "preparation-time": 15,
+        "complexity": 1,
+        "cooking-apparatus": null
+      }
+    ],
+    "rating": 5,
+    "tables_no": 5,
+    "waiters_no": 3
+  }
+]
