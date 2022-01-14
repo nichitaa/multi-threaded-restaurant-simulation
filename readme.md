@@ -1,1 +1,1 @@
-![system arhitecture](\static\system_arhitecture.jpg)
+![system arhitecture](./static/system_arhitecture.jpg)
